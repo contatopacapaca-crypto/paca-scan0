@@ -1,0 +1,10 @@
+{
+  "name": "paca-scan",
+  "version": "1.0.0",
+  "description": "Paca-scan: capture location and forward to Telegram via Vercel serverless function",
+  "main": "api/send.js",
+  "scripts": {},
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
